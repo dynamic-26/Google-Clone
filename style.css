@@ -1,0 +1,173 @@
+*
+{
+	margin:0px;
+	
+}
+.center
+{
+	text-align: -webkit-center;
+}
+a
+{
+	font-family: arial,sans-serif;
+	font-size: smaller;
+	
+	padding: 0px 3px;
+	text-decoration: none;
+	cursor: pointer;
+}
+a:hover
+{
+	text-decoration: underline;
+}
+.navbar
+{
+	position: absolute;
+	right: 0px;
+	padding-top: 20px;
+}
+.navbar a
+{
+	
+	color: #000000DE;
+	padding-right: 15px;
+	padding-bottom: 5px;
+	
+	font-weight:2px;
+	
+	
+
+	
+}
+#photo
+{
+	font-size: xx-large;
+	padding-right:100px;
+
+	background-size:70%;
+	background-image: url(Capture2.png);
+	background-repeat: no-repeat;
+	box-sizing: border-box;
+}
+
+#image
+{
+	max-height: 90px;
+	max-width:260px;
+	/*position: absolute;
+	top: 75px;
+	left: -75px;*/
+	margin-top:150px;
+	margin-left: 120px;
+	margin-bottom: -40px;
+		
+}
+#cap
+{
+	width: 582px;
+	height: 44px;
+	position: relative;
+	top: 45px;
+	z-index: -1;
+}
+.google-form input[type="text"]
+{
+	border:0px;
+	outline-width: 0;
+	/*position: absolute;
+	top: 250px;
+	left: 550px;*/
+	width:487px;
+	height: 34px;
+	padding: 5px 8px 0px 14px;
+	border-radius:24px;
+	
+	margin-bottom: 16px;
+	cursor: text;
+	z-index: 1;
+}
+.submit input
+{	
+
+
+	background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    margin-bottom: 25px;
+}
+.lang
+{
+	line-height: 28px;
+	font-family: arial,sans-serif;
+	font:13px;
+
+	text-decoration: none;
+	margin-bottom: 5000px;
+	
+
+}
+.lang a
+{
+	color: blue;
+}
+.footer
+{
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	height: 81px;
+	width:100%;
+	background:#f2f2f2;
+	display: block;
+	
+
+	
+	font:14px;
+	line-height: 40px;
+	
+} 
+#fix a
+{
+	
+
+	float: left;
+	color: #0000008A;
+	display: inline-block;
+	list-style: none;
+	padding-right: 27px;
+}
+
+#left a
+{
+	
+	color: #0000008A;
+	float: right;
+	padding-bottom: 150px;
+	list-style: none;
+	padding-right: 27px;
+
+}
+#India
+{
+	color: #0000008A;
+	margin-left: 0;
+	padding-left: 42px;
+	
+	border-bottom: 1px  #d9d9d9;
+	border-bottom-style: ridge;
+	border-bottom-width: : 100%;
+}
+@media(max-width: 600px)
+{}
