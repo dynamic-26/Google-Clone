@@ -45,7 +45,7 @@ a:hover
 	padding-right:100px;
 
 	background-size:70%;
-	background-image: url(Capture2.png);
+	background-image: url(Capture2.PNG);
 	background-repeat: no-repeat;
 	box-sizing: border-box;
 }
@@ -169,6 +169,7 @@ a:hover
 	border-bottom-style: ridge;
 	border-bottom-width: : 100%;
 }
+<<<<<<< HEAD
 @media(max-width:720px)
 {
 
@@ -177,3 +178,6 @@ a:hover
 	height: 400%;
 }
 }
+=======
+
+>>>>>>> a3078f09761898a6100c07b8ab5c0b80994cf280
