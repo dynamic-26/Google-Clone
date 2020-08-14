@@ -174,10 +174,12 @@ a:hover
 {
 
 .body{
-	width:400%;
-	height: 400%;
+	width:380%;
+	height: 380%;
+}
+.navbar{
+	position: absolute;
+	right: 0px;
+	padding-top: 20px;
 }
 }
-=======
-
->>>>>>> a3078f09761898a6100c07b8ab5c0b80994cf280
