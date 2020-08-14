@@ -34,7 +34,7 @@ a:hover
 	padding-bottom: 5px;
 	
 	font-weight:2px;
-	
+
 	
 
 	
@@ -169,5 +169,11 @@ a:hover
 	border-bottom-style: ridge;
 	border-bottom-width: : 100%;
 }
-@media(max-width: 600px)
-{}
+@media(max-width:720px)
+{
+
+.body{
+	width:400%;
+	height: 400%;
+}
+}
